@@ -1,4 +1,4 @@
-# File checkpointing & rewind, step by step
+# File checkpointing & rewind
 
 This file explains how Concept 17 (**File checkpointing & rewind**) was added to the Claude Agent SDK Lab.
 From Concept 3 on, the agent has changed real files with `Write` and `Edit`. Until now, nothing could undo that.
